@@ -28,4 +28,22 @@ Then I connected a bench power supply, 24V, 1A, white to negative, black to posi
 ## Wrap Up
 The new power supply isn't a beauty, but since it disappears in my cable duct anyway, I have no problem with it. Generally, any power supply suitable as an LED driver with constant voltage and 24V/1.5A should work. There are models that allow connection to the mains via standard cables, eliminating the need for work on the mains electrical system. These models typically resemble notebook power supplies
 
+**I have not tested the USB Connection. It might not Work. I strongly recomment not to use it unless you verified that the Power does not go through the resistor as the resistor might get burned!**
+
+## Images
+
+Model
+![Model](images/IMG_0012.JPG)
+![PArt](images/IMG_0104.JPG)
+
+Inside
+![Inside](images/IMG_0105.JPG)
+![Inside](images/IMG_0106.JPG)
+![Inside](images/IMG_0107.JPG)
+![Inside](images/IMG_0125.JPG)
+![Inside](images/IMG_0126.JPG)
+
+Soldering
+![Inside](images/IMG_0120.JPG)
+
 
