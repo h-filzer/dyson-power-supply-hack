@@ -1,4 +1,4 @@
-# dyson-powersupply-hack
+# dyson-power-supply-hack
 
 **Warning! I do not provide any guarantee that the modification following this guide will work! You may lose your live or break your lamp! Those who follow the instructions do so at their own risk. Working with mains electricity requires care and is potentially life-threatening, so have the modification performed by a professional**
 
