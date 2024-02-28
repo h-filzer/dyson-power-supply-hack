@@ -1,6 +1,6 @@
 # dyson-powersupply-hack
 
-**Warning! I do not provide any guarantee that the modification following this guide will work! Those who follow the instructions do so at their own risk. Working with mains electricity requires care and is potentially life-threatening, so have the modification performed by a professional**
+**Warning! I do not provide any guarantee that the modification following this guide will work! You may lose your live or break your lamp! Those who follow the instructions do so at their own risk. Working with mains electricity requires care and is potentially life-threatening, so have the modification performed by a professional**
 
 It seems that the previous Dyson lamps have a design flaw in the power supply. After some time, the power needed for maximum brightness cannot be provided anymore, and the lamp simply turns off.
 
@@ -17,6 +17,6 @@ At first, I thought that a signal from the lamp to the power supply passes throu
 Then I connected a bench power supply, 24V, 1A, white to negative, black to positive, blue wire through a 10k ohm resistor to black. Lo and behold, the lamp can be turned on, maximum level (coldest light & max brightness), 0.6A current consumption. The solution! Since the old power supply also made strange whistling noises under load, I ordered a branded power supply (MEAN WELL APV-35-24 36 W) for 12 euros, soldered the cable and resistor to the plug, and since then, no more failures. Problem solved.
 
 ## Wrap Up
-The new power supply isn't a beauty, but since it disappears in my cable duct anyway, I have no problem with it. Generally, any power supply suitable as an LED driver with constant voltage and 24V/1.5A should work.
+The new power supply isn't a beauty, but since it disappears in my cable duct anyway, I have no problem with it. Generally, any power supply suitable as an LED driver with constant voltage and 24V/1.5A should work. There are models that allow connection to the mains via standard cables, eliminating the need for work on the mains electrical system. These models typically resemble notebook power supplies
 
 
