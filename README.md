@@ -5,6 +5,8 @@
 ## The Problem
 It seems that the previous Dyson lamps have a design flaw in the power supply. After some time, the power needed for maximum brightness cannot be provided anymore, and the lamp simply turns off.
 See [Failure Video](https://youtu.be/xMJMveRkaJc?si=6sY41ocF8Fh4tb1i)
+[Reddit](https://www.reddit.com/r/dyson/comments/ud77io/dyson_lightcycle_morph/?rdt=50759)
+[Reddit](https://www.reddit.com/r/dyson/comments/kr4vu1/lightcycle_morph_spontaniously_turns_offdims_its/)
 
 
 Unfortunately, Dyson cannot fulfill its warranty promise due to the unavailability of the necessary parts. According to user reports, a new Dyson power supply does not resolve the issues, as the same problem reoccurs after some time. I own the Lightcycle desk. The power supply for the Lightcycle and the Morph should be identical (please verify). The low point was reached when I was frustrated not to receive any solution from the manufacturer for such an expensive, albeit beautiful, lamp. 
@@ -12,7 +14,6 @@ Unfortunately, Dyson cannot fulfill its warranty promise due to the unavailabili
 ## Inside
 In short, I opened the power supply with a Dremel. This was necessary to understand how the connections to the lamp are wired. A proprietary barrel jack with three connectors. The original power supply is rated for 24V and is designed for constant voltage. So far, so good. After opening it, I suspected an electrolytic capacitor that was already swollen. However, replacing it brought no change.
 
-![Inside](./images/)
 
 ## Analysis
 But the question remained, what does the third signal line signify?
